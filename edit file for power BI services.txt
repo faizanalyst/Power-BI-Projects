@@ -1,3 +1,0 @@
-export?format=xlsx
-
-https://docs.google.com/spreadsheets/d/1-QCt7T7mpTcNTYzGxHq_QzrAEzSABne9/export?format=xlsx
