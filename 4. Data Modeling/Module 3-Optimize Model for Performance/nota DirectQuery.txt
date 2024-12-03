@@ -1,0 +1,20 @@
+table storage mode in DirectQuery
+
+determines where data is stored, specify each table
+data storage.
+
+DAX query performance-caching the data into memory,
+
+table not cached not consume memory.
+
+reduce data refresh rate.
+
+3 strorage mode
+1. Import Mode- in memory stored in power BI
+2. DirectQury- in source data. 
+3. Dual Mode- specify with table import or direct
+query. eg aggragated table use dual mode
+
+
+
+
